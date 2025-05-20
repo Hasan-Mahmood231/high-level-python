@@ -1,6 +1,6 @@
-ame,Age,City,Email,Purchase Amount
-Ali,28,Karachi,ali@example.com,120.5
-Sara,24,Lahore,sara@example.com,95
-Ahmed,35,Islamabad,ahmed@example.com,150.75
-Fatima,30,Multan,fatima@example.com,110
-Omar,22,Peshawar,omar@example.com,80.25
+ame,Age,City,Email,Purchase Amount,city
+Ali,28,Karachi,ali@example.com,120.5,
+Sara,24,Lahore,sara@example.com,95.0,
+Ahmed,35,Islamabad,ahmed@example.com,150.75,dd
+Fatima,30,Multan,fatima@example.com,110.0,
+Omar,22,Peshawar,omar@example.com,80.25,
